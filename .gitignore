@@ -1,6 +1,5 @@
 # Ignore node_modules in the frontend folder
 frontend/node_modules/
-backend/node_modules/
 
 .env
 # Other common ignores
